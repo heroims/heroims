@@ -4,6 +4,8 @@
 - 2 years of industrial robotics development experience, 7 years of iOS development experience
 - https://heroims.github.io/
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heroims&&langs_count=8&hide=html,ejs,scss,asp,css&layout=compact&bg_color=100,e96443,904e95&title_color=fff&text_color=fff" />
+<br>
 
 
 <!--
