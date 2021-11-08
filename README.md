@@ -1,11 +1,17 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=heroims&count_private=true&show_icons=true&hide=prs&theme=radical" />
+<div  align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=heroims&count_private=true&show_icons=true&hide=prs&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heroims&&langs_count=8&hide=html,ejs,scss,asp,css&layout=compact&bg_color=100,e96443,904e95&title_color=fff&text_color=fff" />
+
+</div>
+<div>
 
 ### About Me 👋
 - 2 years of industrial robotics development experience, 7 years of iOS development experience
 - https://heroims.github.io/
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heroims&&langs_count=8&hide=html,ejs,scss,asp,css&layout=compact&bg_color=100,e96443,904e95&title_color=fff&text_color=fff" />
-<br>
+</div>
+
+
 
 
 <!--
