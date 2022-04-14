@@ -6,7 +6,7 @@
 
 <br/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heroims&&langs_count=8&hide=html,ejs,scss,asp,css&layout=compact&bg_color=23,e36143,104e95&title_color=fff&text_color=fff" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=heroims&" alt="heroims" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=heroims&" width=450 height=200 alt="heroims" />
 
 
 <!--
