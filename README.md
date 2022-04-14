@@ -4,9 +4,10 @@
 - 2 years of industrial robotics development experience, 7 years of iOS development experience
 - https://heroims.github.io/
 
+<br/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heroims&&langs_count=8&hide=html,ejs,scss,asp,css&layout=compact&bg_color=23,e36143,104e95&title_color=fff&text_color=fff" />
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=heroims&" alt="heroims" /></p>
 
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heroims&&langs_count=8&hide=html,ejs,scss,asp,css&layout=compact&bg_color=100,e96443,904e95&title_color=fff&text_color=fff" />
--->
 
 <!--
 **heroims/heroims** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
