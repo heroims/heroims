@@ -1,7 +1,7 @@
 <img align="right" src="https://github-readme-stats-heroims.vercel.app/api?username=heroims&count_private=true&show_icons=true&hide=prs&theme=radical" />
 
 ### About Me 👋
-- 2 years of industrial robotics development experience, 9 years of mobile development experience, 5 years of blockchain development experience
+- 7 years of blockchain development experience, 9 years of mobile development experience, 2 years of industrial robotics development experience
 - https://heroims.github.io/
 
 <br/>
