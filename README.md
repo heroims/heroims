@@ -6,9 +6,9 @@
 
 <br/>
 <img align="right" src="https://github-readme-stats-heroims.vercel.app/api/top-langs/?username=heroims&&langs_count=10&hide=html,ejs,scss,asp,css,perl,Objective-C%2B%2B&layout=compact&bg_color=23,e36143,104e95&title_color=fff&text_color=fff" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=heroims&" width=450 height=200 alt="heroims" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heroims" width=550 height=300 alt="heroims" />
 
-<img src= "https://github-profile-trophy.vercel.app/?username=heroims"/>
+<img src= "https://github-profile-trophy-tawny.vercel.app/?username=heroims"/>
 
 
 <!--
